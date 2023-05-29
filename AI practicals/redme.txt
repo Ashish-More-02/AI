@@ -1,0 +1,19 @@
+*greedy algorithm 
+
+it chooses the locally optimum solution with the inent to finding the globally optimum solution .
+
+feasable soultion = available choices
+
+optimal solution = chosing the best solution out of available solution .
+
+
+-------------------------------------------------------------------------------------------------
+
+
+
+*selection sort 
+
+in this we have unsorted array , and we have to make it sorted by using greedy algorithm
+
+1) first we have to select the minimun number out of array and place it in the first position 
+2)
